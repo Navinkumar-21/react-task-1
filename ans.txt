@@ -1,0 +1,8 @@
+what is react.js?
+The React.js framework is an open-source JavaScript framework and library developed by Facebook
+what is virtual dom?
+Virtual DOM is a node tree similar to Real DOM that lists elements, content, and attributes as objects and
+properties. React render() method creates a node tree from the react components.
+What is meant by JSX?
+JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to 
+write and add HTML in React.
